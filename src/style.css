@@ -1,0 +1,24 @@
+ul{
+    color: black;
+    font-size: 22px;
+    text-align: center;
+    font-family: cursive;
+    width: 500px;
+    font-weight: bold;
+    font-style: oblique;
+    
+    
+}
+li{
+    list-style: none;
+
+}
+li:nth-child(1){
+    color: red;
+}
+li:nth-child(2){
+    color: gold;
+}
+li:nth-child(3){
+    color: blue;
+}
